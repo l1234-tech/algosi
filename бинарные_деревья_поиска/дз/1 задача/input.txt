@@ -1,0 +1,12 @@
+11
+add 50
+add 30
+add 70
+add 60
+add 80
+add 65
+del 50
+print
+del 30
+print
+height
