@@ -1,0 +1,1 @@
+### [Яндекс Контест](https://contest.yandex.ru/contest/96618/problems/)
