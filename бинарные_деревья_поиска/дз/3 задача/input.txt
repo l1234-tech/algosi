@@ -1,0 +1,9 @@
+8
+add 3
+add 2
+add 1
+root
+height
+print
+exists 3
+exists 4
